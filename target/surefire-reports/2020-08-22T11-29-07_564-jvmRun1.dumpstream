@@ -1,0 +1,587 @@
+# Created on 2020-08-22T11:31:38.625
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:386)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created on 2020-08-22T11:31:38.757
+Unexpected IOException with stream: waiting for element to be present on the page -->6secs
+
+
+# Created on 2020-08-22T11:31:38.961
+Unexpected IOException with stream: waiting for element to be present on the page -->6secs
+
+
+# Created on 2020-08-22T11:31:39.774
+Unexpected IOException with stream: waiting for element to be present on the page -->7secs
+
+
+# Created on 2020-08-22T11:31:39.981
+Unexpected IOException with stream: waiting for element to be present on the page -->7secs
+
+
+# Created on 2020-08-22T11:31:40.790
+Unexpected IOException with stream: waiting for element to be present on the page -->8secs
+
+
+# Created on 2020-08-22T11:31:40.997
+Unexpected IOException with stream: waiting for element to be present on the page -->8secs
+
+
+# Created on 2020-08-22T11:31:41.814
+Unexpected IOException with stream: waiting for element to be present on the page -->9secs
+
+
+# Created on 2020-08-22T11:31:42.012
+Unexpected IOException with stream: waiting for element to be present on the page -->9secs
+
+
+# Created on 2020-08-22T11:31:42.814
+Unexpected IOException with stream: Flight details page search summary is:null
+
+
+# Created on 2020-08-22T11:31:42.814
+Unexpected IOException: 6,1,com.qa.ClearTripQA.tests.HomePageTest,verifyFlightSearchSummary(com.qa.ClearTripQA.tests.HomePageTest),null,null,null
+
+
+# Created on 2020-08-22T11:31:42.814
+Unexpected IOException with stream: I am in onTestSuccess method verifyFlightSearchSummary succeed
+
+
+# Created on 2020-08-22T11:31:42.814
+Unexpected IOException: 5,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),com.qa.ClearTripQA.tests.HomePageTest,null,null
+
+
+# Created on 2020-08-22T11:31:42.814
+Unexpected IOException with stream: I am in onTestStart method verfiyPriceticket start
+
+
+# Created on 2020-08-22T11:31:42.833
+Unexpected IOException with stream: element could not be created...By.id: BaggageBundlingTemplate
+
+
+# Created on 2020-08-22T11:31:42.841
+Unexpected IOException: 8,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),null,null,null,null,HomePageTest.verfiyPriceticket:113 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.qa.ClearTripQA.tests.HomePageTest.verfiyPriceticket(HomePageTest.java:113)\000A
+
+
+# Created on 2020-08-22T11:31:42.849
+Unexpected IOException with stream: I am in onTestFailure method verfiyPriceticket failed
+
+
+# Created on 2020-08-22T11:31:42.849
+Unexpected IOException with stream: Screenshot captured for test case:verfiyPriceticket
+
+
+# Created on 2020-08-22T11:31:43.016
+Unexpected IOException with stream: Flight details page search summary is:null
+
+
+# Created on 2020-08-22T11:31:43.016
+Unexpected IOException: 6,1,com.qa.ClearTripQA.tests.HomePageTest,verifyFlightSearchSummary(com.qa.ClearTripQA.tests.HomePageTest),null,null,null
+
+
+# Created on 2020-08-22T11:31:43.018
+Unexpected IOException with stream: I am in onTestSuccess method verifyFlightSearchSummary succeed
+
+
+# Created on 2020-08-22T11:31:43.018
+Unexpected IOException: 5,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),com.qa.ClearTripQA.tests.HomePageTest,null,null
+
+
+# Created on 2020-08-22T11:31:43.018
+Unexpected IOException with stream: I am in onTestStart method verfiyPriceticket start
+
+
+# Created on 2020-08-22T11:31:43.025
+Unexpected IOException with stream: element could not be created...By.id: BaggageBundlingTemplate
+
+
+# Created on 2020-08-22T11:31:43.025
+Unexpected IOException: 8,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),null,null,null,null,HomePageTest.verfiyPriceticket:113 \00BB NullPointer,java.lang.NullPointerException\000A\0009at com.qa.ClearTripQA.tests.HomePageTest.verfiyPriceticket(HomePageTest.java:113)\000A
+
+
+# Created on 2020-08-22T11:31:43.025
+Unexpected IOException with stream: I am in onTestFailure method verfiyPriceticket failed
+
+
+# Created on 2020-08-22T11:31:43.025
+Unexpected IOException with stream: Screenshot captured for test case:verfiyPriceticket
+
+
+# Created on 2020-08-22T11:31:43.124
+Unexpected IOException: 8,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),null,Failed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 55384\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 469bb775-2368-428e-baaa-2f860cc9f939,null,Failed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 55384\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 469bb775-2368-428e-baaa-2f860cc9f939,HomePageTest.verfiyPriceticket \00BB WebDriver Failed to decode response from mari...,org.openqa.selenium.WebDriverException: \000AFailed to decode response from marionette\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 55384\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: 469bb775-2368-428e-baaa-2f860cc9f939\000A
+
+
+# Created on 2020-08-22T11:31:43.124
+Unexpected IOException with stream: I am in onTestFailure method verfiyPriceticket failed
+
+
+# Created on 2020-08-22T11:31:43.124
+Unexpected IOException with stream: Screenshot captured for test case:verfiyPriceticket
+
+
+# Created on 2020-08-22T11:31:43.190
+Unexpected IOException: 8,1,com.qa.ClearTripQA.tests.HomePageTest,tearDown(com.qa.ClearTripQA.tests.HomePageTest),null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 52124\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ad07efd7-1ec0-402d-ab65-3fadffe74302,null,Tried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 52124\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ad07efd7-1ec0-402d-ab65-3fadffe74302,HomePageTest.tearDown:170 \00BB NoSuchSession Tried to run command without establi...,org.openqa.selenium.NoSuchSessionException: \000ATried to run command without establishing a connection\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.firefox.FirefoxDriver\000ACapabilities {acceptInsecureCerts: true\002C browserName: firefox\002C browserVersion: 79.0\002C javascriptEnabled: true\002C moz:accessibilityChecks: false\002C moz:buildID: 20200720193547\002C moz:geckodriverVersion: 0.27.0\002C moz:headless: false\002C moz:processID: 52124\002C moz:profile: C:\005CUsers\005C14387\005CAppData\005CLoca...\002C moz:shutdownTimeout: 60000\002C moz:useNonSpecCompliantPointerOrigin: false\002C moz:webdriverClick: true\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C platformVersion: 10.0\002C rotatable: false\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify}\000ASession ID: ad07efd7-1ec0-402d-ab65-3fadffe74302\000A\0009at com.qa.ClearTripQA.tests.HomePageTest.tearDown(HomePageTest.java:170)\000A
+
+
+# Created on 2020-08-22T11:31:43.198
+Unexpected IOException: 9,1,com.qa.ClearTripQA.tests.HomePageTest,tearDown(com.qa.ClearTripQA.tests.HomePageTest),null,null,null
+
+
+# Created on 2020-08-22T11:31:43.198
+Unexpected IOException: 9,1,com.qa.ClearTripQA.tests.HomePageTest,tearDown(com.qa.ClearTripQA.tests.HomePageTest),null,null,null
+
+
+# Created on 2020-08-22T11:31:43.288
+Unexpected IOException with stream: I am in onFinish method Cleartrip feature Testing-firefox
+
+
+# Created on 2020-08-22T11:31:47.035
+Unexpected IOException with stream: [
+
+# Created on 2020-08-22T11:31:47.035
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 5
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 9
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 8
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:47.043
+Unexpected IOException with stream: 0
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 3
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 0
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 7
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 0
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 3
+
+# Created on 2020-08-22T11:31:47.051
+Unexpected IOException with stream: 6
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: [
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: W
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: A
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: R
+
+# Created on 2020-08-22T11:31:47.060
+Unexpected IOException with stream: N
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream: I
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream: N
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream: G
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream: :
+
+# Created on 2020-08-22T11:31:47.068
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: T
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: m
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: d
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: u
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.074
+Unexpected IOException with stream: c
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: c
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: g
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:47.082
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: C
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: h
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: m
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: ,
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:47.090
+Unexpected IOException with stream: y
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: g
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: 
+
+# Created on 2020-08-22T11:31:47.098
+Unexpected IOException with stream: 
+
+
+# Created on 2020-08-22T11:31:55.123
+Unexpected IOException: 8,1,com.qa.ClearTripQA.tests.HomePageTest,verfiyPriceticket(com.qa.ClearTripQA.tests.HomePageTest),null,chrome not reachable\000A  (Session info: chrome=84.0.4147.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 84.0.4147.125\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005C14387\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:54742}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 050f38515c174e2a66d8fb6958d77878,null,chrome not reachable\000A  (Session info: chrome=84.0.4147.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 84.0.4147.125\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005C14387\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:54742}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 050f38515c174e2a66d8fb6958d77878,HomePageTest.verfiyPriceticket \00BB WebDriver chrome not reachable\000A  (Session inf...,org.openqa.selenium.WebDriverException: \000Achrome not reachable\000A  (Session info: chrome=84.0.4147.125)\000ABuild info: version: '3.141.59'\002C revision: 'e82be7d358'\002C time: '2018-11-14T08:17:03'\000ASystem info: host: 'DESKTOP-KQUFIDC'\002C ip: '192.168.99.1'\002C os.name: 'Windows 10'\002C os.arch: 'amd64'\002C os.version: '10.0'\002C java.version: '1.8.0_251'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACapabilities {acceptInsecureCerts: false\002C browserName: chrome\002C browserVersion: 84.0.4147.125\002C chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0...\002C userDataDir: C:\005CUsers\005C14387\005CAppData\005CLoca...}\002C goog:chromeOptions: {debuggerAddress: localhost:54742}\002C javascriptEnabled: true\002C networkConnectionEnabled: false\002C pageLoadStrategy: normal\002C platform: WINDOWS\002C platformName: WINDOWS\002C proxy: Proxy()\002C setWindowRect: true\002C strictFileInteractability: false\002C timeouts: {implicit: 0\002C pageLoad: 300000\002C script: 30000}\002C unhandledPromptBehavior: dismiss and notify\002C webauthn:virtualAuthenticators: true}\000ASession ID: 050f38515c174e2a66d8fb6958d77878\000A
+
+
+# Created on 2020-08-22T11:31:55.123
+Unexpected IOException with stream: I am in onTestFailure method verfiyPriceticket failed
+
+
+# Created on 2020-08-22T11:31:55.123
+Unexpected IOException with stream: Screenshot captured for test case:verfiyPriceticket
+
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: [
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 5
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 9
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 8
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 0
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 3
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 9
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:59.133
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.141
+Unexpected IOException with stream: 3
+
+# Created on 2020-08-22T11:31:59.141
+Unexpected IOException with stream: 1
+
+# Created on 2020-08-22T11:31:59.141
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: [
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: W
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: A
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: R
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: N
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: I
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: N
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: G
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: ]
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: :
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: T
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: m
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: d
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: u
+
+# Created on 2020-08-22T11:31:59.144
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: c
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: c
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: g
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: C
+
+# Created on 2020-08-22T11:31:59.152
+Unexpected IOException with stream: h
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: o
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: m
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: ,
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream:  
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: e
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: t
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: r
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: y
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: i
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: n
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: g
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: .
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: 
+
+# Created on 2020-08-22T11:31:59.160
+Unexpected IOException with stream: 
+
+

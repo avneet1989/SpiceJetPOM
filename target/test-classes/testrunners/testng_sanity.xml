@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cleartrip test automtion sanity suite" verbose="3" parallel="tests" thread-count="5" >
+<listeners>
+<!-- <listener class-name="com.qa.ClearTripQA.testlisteners.ExtentReportListener"/>
+<listener class-name="com.qa.ClearTripQA.testlisteners.pdfListener"/>-->
+  <listener class-name="com.qa.ClearTripQA.testlisteners.TesultsListener"/>
+ <!-- <listener class-name="com.qa.ClearTripQA.testlisteners.TestAllureListener"/>-->
+
+
+</listeners>
+
+  <test name="Cleartrip feature Testing-chrome">
+  <parameter name="browser" value="chrome"></parameter>
+    <classes>
+      <class name="com.qa.ClearTripQA.tests.LoginPageTest"/>  
+    <!--   <class name="com.qa.ClearTripQA.tests.HomePageTest"/>-->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.qa.ClearTripQA.tests.HomePageTest">
+        <methods>
+          <include name="verfiyPriceticket"/>
+          <include name="verifyPageHeader"/>
+          <include name="verfiyflightInformation"/>
+          <include name="verifyAdult"/>
+          <include name="verifyFlightSearchSummary"/>
+          <include name="verifyOneWay"/>
+          <include name="verifyContinueBooking"/>
+          <include name="verfiyHomePageTitle"/>
+          <include name="verifyClickSearch"/>
+          <include name="verifyMoreOption"/>
+          <include name="verifyGetuserInfo"/>
+          <include name="verifyInsertInformation"/>
+          <include name="verifyPaymentMethod"/>
+          <include name="verifySelectDestination"/>
+          <include name="HomePageSetUp"/>
+          <include name="verifyInformationheader"/>
+          <include name="verifyCurrencySelector"/>
+          <include name="verifyselectFrom"/>
+          <include name="verifyBookFlight"/>
+          <include name="tearDown"/>
+          <include name="verifycalenderDate"/>
+          <include name="verifyChildren"/>
+        </methods>
+      </class> <!-- com.qa.ClearTripQA.tests.HomePageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

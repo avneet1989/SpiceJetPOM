@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cleartrip test automtion sanity suite" duration-ms="13969" started-at="2020-08-22T15:25:00Z" finished-at="2020-08-22T15:25:14Z">
+    <groups>
+    </groups>
+    <test name="Cleartrip feature Testing-chrome" duration-ms="13969" started-at="2020-08-22T15:25:00Z" finished-at="2020-08-22T15:25:14Z">
+      <class name="com.qa.ClearTripQA.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.ClearTripQA.tests.LoginPageTest@c074c0c]" name="setUp" is-config="true" duration-ms="10231" started-at="2020-08-22T15:25:00Z" finished-at="2020-08-22T15:25:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPage()[pri:0, instance:com.qa.ClearTripQA.tests.LoginPageTest@c074c0c]" name="verifyLoginPage" duration-ms="2636" started-at="2020-08-22T15:25:10Z" finished-at="2020-08-22T15:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.ClearTripQA.tests.LoginPageTest@c074c0c]" name="tearDown" is-config="true" duration-ms="785" started-at="2020-08-22T15:25:13Z" finished-at="2020-08-22T15:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.ClearTripQA.tests.LoginPageTest -->
+    </test> <!-- Cleartrip feature Testing-chrome -->
+  </suite> <!-- Cleartrip test automtion sanity suite -->
+</testng-results>
